@@ -1,3 +1,6 @@
+# Frontend for bet-parser
+Backend prt you can find in [betparser-back](https://github.com/faionfaion/betparser-back) repo.
+
 # Getting Started with Create React App
 
 This project was bootstrapped with [Create React App](https://github.com/facebook/create-react-app).
